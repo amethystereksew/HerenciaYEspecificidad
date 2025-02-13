@@ -1,3 +1,11 @@
 div{
-    color: crimson;
+    color: red;
+}
+
+.title{
+    color: aquamarine;
+}
+
+h1{ 
+    color: darkorange;
 }
