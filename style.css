@@ -1,11 +1,44 @@
-div{
-    color: red;
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Cookie&display=swap');
+
+*{
+    font: 16px 'Cabin', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
 }
 
-.title{
-    color: aquamarine;
+div{
+    color: red;
 }
 
 h1{ 
     color: darkorange;
 }
+
+div h1{
+    color: darkgreen;
+} 
+
+div h1{
+    color: darkblue;
+}
+
+.title{
+    color: aquamarine;
+    font-weight: 200;
+}
+
+.btn-primary{
+    color: darkmagenta;
+} 
+
+.container h1{
+    color: darkblue;
+} 
+ 
+#special-title{
+    color: darkred;
+    font-style: italic;
+}
+ 
+ 
